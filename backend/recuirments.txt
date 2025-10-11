@@ -1,9 +1,0 @@
-flask
-flask-cors
-PyPDF2
-scikit-learn
-pandas
-numpy
-joblib
-python-docx
-gunicorn
